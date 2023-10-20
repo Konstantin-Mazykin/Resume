@@ -85,13 +85,16 @@ aside {
     font-weight: normal;
 }
 
-.dash-line {
-    vertical-align: sub;
-    color: #A8A8A8;
+.project-link {
+    font-weight: bold;
 }
 
 .company, .institution {
     color: #6096FF;
+}
+
+.about-me-text {
+    padding-top: 30px;
 }
 
 .about-me, .my-projects, .my-experiense {
